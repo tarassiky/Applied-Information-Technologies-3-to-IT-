@@ -99,13 +99,15 @@ docker push tarassiky/flask-app:latest
 
 https://hub.docker.com/repository/docker/tarassiky/flask-app
 
-Результаты работы
-Этап	Выполнение
-Dockerfile	✅ создан
-Программа на Python	✅ написана
-docker build	✅ образ собран
-docker push	✅ образ загружен
-Ссылка на Docker Hub	✅ опубликована
+## Результаты работы
+
+| Этап |Выполнение |
+|----------|----------|
+| Dockerfile | создан |
+| Программа на Python | написана |
+| docker build | образ собран |
+| docker push | образ загружен |
+| Ссылка на Docker Hub | опубликована |
 
 ## Вывод
 
